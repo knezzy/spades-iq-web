@@ -10,4 +10,4 @@ App Store Connect URLs:
 
 The site intentionally has no App Store download link until a Spades IQ listing exists. Replace the coming-soon callout with the correct listing URL when available.
 
-The privacy policy reflects the app code reviewed on October 12, 2026. Review it again whenever app data practices or third-party services change, and make the App Store Connect privacy answers match the released build.
+The privacy policy reflects the offline-only release flags reviewed on October 12, 2026. Review the site and policy if online play, ads, or purchases become enabled, and make App Store Connect privacy answers match the released build.
